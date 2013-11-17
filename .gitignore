@@ -1,2 +1,7 @@
 /vendor
+/assets/jquery/*
+/assets/jquery-ui/*
+require.*
+
 composer.*
+!composer.json
