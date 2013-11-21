@@ -8,3 +8,6 @@ Sukurti jQuery ui widget'ą, kuris:
 
 1) siųstų ajax užklausą ir gautų atsakymą
 2) atliktų html/css manipuliacijas
+
+##Naudojimas
+$('form').nfqPrettify()
